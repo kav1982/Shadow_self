@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameEntry.unity
+    guid: 6282d3bc60d2ee24890f73997330ae1f
+  - enabled: 1
+    path: Assets/Scenes/maintown.unity
+    guid: 58ae803cab2ce9b4fa46eead7fad20d7
+  - enabled: 1
+    path: Assets/Scenes/reloadgame.unity
+    guid: 1c4ce7867166e6247985f90bd6234ef6
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 187da5f2eadab3e4e85b3b75ea010b9d
+  - enabled: 0
+    path: Assets/Scenes/scenes_moba01.unity
+    guid: 25a8436fea2a1d64ba13639cde0d48c1
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: d955ea7484d10514d926d4477f226666
+  - enabled: 0
+    path: Assets/Scenes/scenes_city01.unity
+    guid: 71f6480f87348f04d9d910cd103403d5
+  - enabled: 0
+    path: Assets/Scenes/scenes_car01.unity
+    guid: ebd4fa6b9a57ee344962bad5fc182681
+  - enabled: 0
+    path: Assets/Scenes/scenes_guide.unity
+    guid: b619dab4b438a7a4fbef3f00a2862033
+  - enabled: 0
+    path: Assets/Scenes/scenes_dam01.unity
+    guid: a8d7a4efeeb03aa4594e2d7d7a697159
+  - enabled: 0
+    path: Assets/Scenes/scenes_moba02.unity
+    guid: 97f22fb1c080c54458a549b9c56a32e0
+  - enabled: 0
+    path: Assets/Scenes/scenes_dam02.unity
+    guid: abcf7d67e0739294284654fa3da202ce
+  - enabled: 0
+    path: Assets/Scenes/scenes_moba03.unity
+    guid: ac759c0ea7d0f484fbbff31303535b74
+  - enabled: 0
+    path: Assets/Scenes/scenes_dam03.unity
+    guid: 3768e3031468e6549b4789ae2e40ffe1
